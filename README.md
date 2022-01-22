@@ -8,13 +8,12 @@ By: Isabel Silva
 
 Here's a walkthrough of implemented user stories:
 
-<img src='../src/images/digital.png' title='screenshot' width='' alt='screenshot' />
+<img src='https://github.com/isabel2296/digital-busines-card/blob/master/src/images/digital.png' title='screenshot' width='' alt='screenshot' />
 
 GIF created with [PicGIF Lite].
 
 ## Notes
-    This app was devloped following a tutorial called "How to Make an IOS Game..." found: 
-    https://www.zerotoappstore.com/how-to-make-an-ios-game.html
+None
 
 ## License
 
