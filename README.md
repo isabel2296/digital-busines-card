@@ -6,9 +6,9 @@ By: Isabel Silva
 
 ## Image of Digital Business Card
 
-Here's a walkthrough of implemented user stories:
+Here's a image of implemented user stories:
 
-<img src='https://github.com/isabel2296/digital-busines-card/blob/master/src/images/digital.png' title='screenshot' width='' alt='screenshot' />
+<img src='https://github.com/isabel2296/digital-busines-card/blob/master/src/images/digital.png' title='screenshot' width='315' length="200" alt='screenshot' />
 
 GIF created with [PicGIF Lite].
 
