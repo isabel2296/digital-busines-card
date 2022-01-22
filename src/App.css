@@ -4,8 +4,8 @@ body{
   
   background-color: #23252C;
   color: white;
-  margin-left: 25%;
-  margin-top: 5%;
+  margin-left: 1%;
+  margin-top: 1%;
 }
 nav{
   width: 317px;
@@ -125,10 +125,12 @@ nav > img{
   width: 317px;
   border-bottom-left-radius: .55em;
   border-bottom-right-radius: .55em;
-  
 }
 .footer > a {
   font-size: 35px;
   padding: 5px;
   color: #918E9B;
+}
+.footer > a > img{
+  width: 35px;
 }
