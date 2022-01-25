@@ -2,14 +2,14 @@
 **Digital Business Card** is a web application created using React. 
 By: Isabel Silva
 ## Functionalities
-*[X] Display's personal information allowing users to email card holder as well as view card holders' web portfolio, linkedln profile, github profile. 
+[x] Display's personal information allowing users to email card holder as well as view card holders' web portfolio, linkedln profile, github profile. 
 
 ## Image of Digital Business Card
 
 Here's a image of implemented user stories:
 
 <img src='https://github.com/isabel2296/digital-busines-card/blob/master/src/images/digital.png' title='screenshot' width='315' length="200" alt='screenshot' />
-
+<img src='https://github.com/isabel2296/digital-busines-card/blob/master/src/images/digital.png' title='screenshot' width='315' length="200" alt='screenshot' />
 GIF created with [PicGIF Lite].
 
 ## Notes
