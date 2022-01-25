@@ -9,7 +9,7 @@ By: Isabel Silva
 Here's a image of implemented user stories:
 
 <img src='https://github.com/isabel2296/digital-busines-card/blob/master/src/images/digital.png' title='screenshot' width='315' length="200" alt='screenshot' />
-<img src='https://github.com/isabel2296/digital-busines-card/blob/master/src/images/digital.png' title='screenshot' width='315' length="200" alt='screenshot' />
+<img src='https://github.com/isabel2296/digital-busines-card/blob/master/src/images/QRdigitalBS.png' title='screenshot' width='200' length="200" alt='qrcode' />
 GIF created with [PicGIF Lite].
 
 ## Notes
